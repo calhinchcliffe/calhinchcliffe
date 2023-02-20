@@ -8,7 +8,9 @@ Currently I have one complete project:
 
 [Classifying Practices in Privacy Policy Text](https://github.com/calhinchcliffe/nlp_privacy_policies) (Data Science, NLP)
 
-I'll add to my portfolio as I work on more projects.
+I'll add to my portfolio as I work on more things.
+
+You'll find more information about me on my [LinkedIn](https://www.linkedin.com/in/callumhinchcliffe/).  Please reach out if you'd like to say hi!
 
 <!--
 **calhinchcliffe/calhinchcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
